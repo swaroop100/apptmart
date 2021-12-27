@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26592" started-at="2021-12-26T16:00:24Z" finished-at="2021-12-26T16:00:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26592" started-at="2021-12-26T16:00:24Z" finished-at="2021-12-26T16:00:51Z">
+      <class name="com.first.apptmart">
+        <test-method status="PASS" signature="shopping()[pri:0, instance:com.first.apptmart@1a968a59]" name="shopping" duration-ms="26538" started-at="2021-12-26T16:00:24Z" finished-at="2021-12-26T16:00:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopping -->
+      </class> <!-- com.first.apptmart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
